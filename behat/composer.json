@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for https://docuweb.docustar.com/DocuWeb/client/login.php",
+  "description": "Functional testing for https://docuweb.docustar.com/DocuWeb/client/login.php site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
